@@ -427,7 +427,7 @@ class Main:
 			print("    Thanks♥️")
 			exit() 
 		elif Baloch in ["1", "01"]:
-			os.system("xdg-open https://www.facebook.com/groups/1148797432715185/?ref=share_group_link")
+			os.system("xdg-open https://facebook.com/groups/3092272281101861/?ref=share_group_link")
 			print("")
 			time.sleep(3.0)
 			print("\033[1;37m    𝗖𝗛𝗘𝗖𝗞𝗜𝗡𝗚 𝗔𝗣𝗣𝗥𝗢𝗩𝗔𝗟 ")
