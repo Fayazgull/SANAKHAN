@@ -275,7 +275,7 @@ def name():
 				pass
 def name2():
 	clear()
-	print(logo);print( '\n [O] HASIL OK TERSIMPAN DI : \033[1;92mOK/%s\033[1;97m\n [C] HASIL CP TERSIMPAN DI : \033[1;91mCP/%s\033[1;97m\n [O] \033[1;96mON/OFF MODE PESAWAT JIKA TIDAK ADA HASIL\033[1;0m\n'%(okc,cpc))
+	print(logo);print( '\n [O] SANA OK TERSIMPAN DI : \033[1;92mOK/%s\033[1;97m\n [C] SANA CP TERSIMPAN DI : \033[1;91mCP/%s\033[1;97m\n [O] \033[1;96mON/OFF MODE PESAWAT JIKA TIDAK ADA SANA\033[1;0m\n'%(okc,cpc))
 	with tred(max_workers=30) as pool:
 		for yuzong in id2:
 			idf,nmf = yuzong.split('|')[0],yuzong.split('|')[1].lower()
