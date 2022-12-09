@@ -435,7 +435,7 @@ class Main:
 			input("\n\033[1;37m TYᑭᗴ Tᕼᗴ Oᗯᑎᗴᖇ ᖴᗩᑕᗴᗷOOK ᗩᑕᑕOᑌᑎT ᑎᗩᗰᗴ \033[1;37m")
 			time.sleep(3.1)
 			print("")
-			print("\033[1;32m ᗯᗴᒪᑕOᗰᗴ TO ••𝗠MS•• ᗷᖇᗩᑎᗪ TOOᒪՏ")
+			print("\033[1;32m ᗯᗴᒪᑕOᗰᗴ TO ••SANA•• ᗷᖇᗩᑎᗪ TOOᒪՏ")
 			time.sleep(3.0)
 			os.system("clear")
 		print()
